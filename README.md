@@ -11,7 +11,7 @@ Towards Lossless Implicit Neural Representation via Bit Plane Decomposition (CVP
 
 
 ## Overall Structure
-![Overall Structure of Our JDEC](./static/images/Schematic.png)
+![Overall Structure of Our Lossless Implicit Neural Representation via Bit-plane Decomposition](./static/images/Schematic.png)
 
 
 
