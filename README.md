@@ -4,8 +4,9 @@ This repository contains the official implementation of the following paper:
 
 Towards Lossless Implicit Neural Representation via Bit Plane Decomposition (CVPR 2025) (Accepted)
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2502.21001-b31b1b.svg)](https://arxiv.org/abs/2502.21001)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2502.21001-b31b1b.svg?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2502.21001)&nbsp;
 
+[![project page](https://img.shields.io/badge/Project-Page-lightblue?logo=github)](https://wookyounghan.github.io/LosslessINR/)&nbsp;
 
 
 ## Overall Structure
